@@ -42,12 +42,12 @@ export default {
 Once the **Carousel** and **Slide** components are installed globally or imported, they can be used in templates in the following manner:
 
 ``` html
-  <carousel>
-    <slide>
+  <Carousel>
+    <Slide>
       Slide 1 Content
-    </slide>
-    <slide>
+    </Slide>
+    <Slide>
       Slide 2 Content
-    </slide>
-  </carousel>
+    </Slide>
+  </Carousel>
 ```
